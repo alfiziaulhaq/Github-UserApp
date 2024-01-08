@@ -1,4 +1,4 @@
-Final submission for 'Belajar Fundamental Aplikasi Android' course @Dicoding
+Final submission for 'Belajar Fundamental Aplikasi Android' course @Dicoding. Made with Room, Datastore-preferences, Retrofit, Glide.
 
 ## Demo
 
